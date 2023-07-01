@@ -162,7 +162,7 @@ include_directories(
 ## Mark executable scripts (Python etc.) for installation
 ## in contrast to setup.py, you can choose the destination
  catkin_install_python(PROGRAMS
-   scripts/v7_ws/yolov7/key_infer_main.py
+   scripts/ylv7/key_infer_main.py
    DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
  )
 
