@@ -1,0 +1,3 @@
+[submodule "scripts/ylv7"]
+	path = scripts/ylv7
+	url = https://github.com/TanDuong986/yolov7_realsene_ros.git
